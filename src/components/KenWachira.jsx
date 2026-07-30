@@ -1,4 +1,5 @@
 import coach from "../assets/ken_wachira.png";
+import "./kenWachira.css";
 
 export default function KenWachira() {
     return (
@@ -15,7 +16,7 @@ export default function KenWachira() {
                     <h3>About Ken</h3>
                     <p>Meet Ken Wachira, a basketball strategist known for his quick decision-making and game-reading abilities. 
                         His coaching style emphasizes enhancing court vision and predicting opponents' moves.
-                        Gain exclusive insights into basketball tactics and honing your 3-point game with Ken Wachirs, the maestro behind the arc.</p>
+                        Gain exclusive insights into basketball tactics and honing your 3-point game with Ken Wachira, the maestro behind the arc.</p>
                     <blockquote>"Read the game, own the court."</blockquote>
                 </div>
             </div>
@@ -64,5 +65,5 @@ export default function KenWachira() {
                 </section>
             </div>
         </div>
-    )
+    );
 }
