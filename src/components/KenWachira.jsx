@@ -40,7 +40,7 @@ export default function KenWachira() {
                     <h5>Coaching Focus</h5>
                     <p>Improving court vision, anticipating oppponent moves</p>
                     <h5>Main Focus</h5>
-                    <ul>
+                    <ul className="points">
                         <li>Tactical insights</li>
                         <li>Rapid decision-making drills</li>
                     </ul>
@@ -52,13 +52,13 @@ export default function KenWachira() {
                         <div className="line"></div>
                     </div>
                     <h5>Main Focus</h5>
-                    <ul>
+                    <ul className="points">
                         <li>Point Guards</li>
                         <li>Small Forwards</li>
                         <li>Team strategists</li>
                     </ul>
                     <h5>Also</h5>
-                    <ul>
+                    <ul className="points">
                         <li>Trains all basketball Positions</li>
                     </ul>
                 </section>
