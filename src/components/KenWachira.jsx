@@ -22,8 +22,10 @@ export default function KenWachira() {
             </div>
             <div className="right-panel">
                 <section>
-                    <h4>DECISIVE MOVES SPECCIALIST</h4>
-                    <div className="line"></div>
+                    <div className="section-title">
+                        <h4>DECISIVE MOVES SPECCIALIST</h4>
+                        <div className="line"></div>
+                    </div>
                     <h5>Strength</h5>
                     <p>Strategic Vision & Quick Decision-Making & 3-Point Shooting</p>
                     <h5>Expertise</h5>
@@ -31,8 +33,10 @@ export default function KenWachira() {
                 </section>
 
                 <section>
-                    <h4>VISIONARY INSIGHTS</h4>
-                    <div className="line"></div>
+                    <div className="section-title">
+                        <h4>VISIONARY INSIGHTS</h4>
+                        <div className="line"></div>
+                    </div>
                     <h5>Coaching Focus</h5>
                     <p>Improving court vision, anticipating oppponent moves</p>
                     <h5>Main Focus</h5>
@@ -43,8 +47,10 @@ export default function KenWachira() {
                 </section>
 
                 <section>
-                    <h4>TRAINING POSITIONS</h4>
-                    <div className="line"></div>
+                    <div className="section-title">
+                        <h4>TRAINING POSITIONS</h4>
+                        <div className="line"></div>
+                    </div>
                     <h5>Main Focus</h5>
                     <ul>
                         <li>Point Guards</li>
@@ -58,8 +64,10 @@ export default function KenWachira() {
                 </section>
 
                 <section>
-                    <h4>ACCOLADES</h4>
-                    <div className="line"></div>
+                    <div className="section-title">
+                        <h4>ACCOLADES</h4>
+                        <div className="line"></div>
+                    </div>
                     <p className="awards">MVP 2022</p>
                     <p>,renowned for exceptional 3-point shooting skills.</p>
                 </section>

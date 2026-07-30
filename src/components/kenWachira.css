@@ -96,17 +96,28 @@ body{
     margin-bottom: 70px;
 }
 
+.section-title{
+    display:inline-flex;
+    flex-direction:column;
+    align-items:center; /* or flex-start if you want left aligned */
+}
+
+.section-title h4{
+    margin:0;
+    white-space:nowrap;
+}
+
+.line{
+    width:100%;
+    height:3px;
+    background:#df8d3a;
+    margin-top:12px;
+}
+
 .right-panel h4{
     font-size:20px;
     color:#333;
     font-weight:700;
-}
-
-.line{
-    max-width:100%;
-    height:3px;
-    background:#df8d3a;
-    margin:15px 0 35px;
 }
 
 .right-panel h5{
