@@ -68,8 +68,8 @@ export default function KenWachira() {
                         <h4>ACCOLADES</h4>
                         <div className="line"></div>
                     </div>
-                    <p className="awards">MVP 2022</p>
-                    <p>,renowned for exceptional 3-point shooting skills.</p>
+                    <p>
+                        <span className="awards">MVP 2022</span>, renowned for exceptional 3-point shooting skills.</p>
                 </section>
             </div>
         </div>
