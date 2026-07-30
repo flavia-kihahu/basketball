@@ -23,7 +23,7 @@ export default function KenWachira() {
             <div className="right-panel">
                 <section>
                     <div className="section-title">
-                        <h4>DECISIVE MOVES SPECCIALIST</h4>
+                        <h4>DECISIVE MOVES SPECIALIST</h4>
                         <div className="line"></div>
                     </div>
                     <h5>Strength</h5>
